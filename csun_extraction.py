@@ -15,7 +15,9 @@ directory = glob.glob(path + '/*.wav') #pathnames for the audio files
 output_dir= "reco_results/"
 os.system("mkdir "+ output_dir) #creates new directory called "output_dir" for the resulting .hyp files
 
-url = "'http://service.interactions.net/smm/watson?cmd=rawoneshot&appname=pizza&grammar=generic&uuid=FD727325512711E7B18B777444234D2E&resultFormat=emma'"
+grammar = 'generic'
+
+url = "'http://service.interactions.net/smm/watson?cmd=rawoneshot&appname=pizza&grammar='" + grammar + "'&uuid=FD727325512711E7B18B777444234D2E&resultFormat=emma'"
 #url of the AT&T Speech Mashup website which performs speech recognition by referencing the audio with the
 #provided grammar
 
