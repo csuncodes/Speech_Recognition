@@ -1,6 +1,6 @@
 # Speech_Recognition
 
-This is a small project for conducting speech recognition on .wav audio files for a class on dialog systems. 
+This is a small project for evaluating speech recognition performance conducted on .wav audio files for a class on dialog systems. 
 This project can be seen as being constructed into three steps:
   
   1. Going through a directory of audio files, each with a different pizza order, and iteratively converting them to .emma files and sending then through the AT&T Mashup - a speech recognizer tool that transcribes utterances according to a provided grammar.
