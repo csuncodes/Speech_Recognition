@@ -1,0 +1,71 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   pizza.hyp
+
+Speakers: 
+    0:  csun
+
+Speaker sentences   0:  csun   #utts: 10
+id: (csun_01)
+Scores: (#C #S #D #I) 7 1 0 0
+REF:  i would like a small cheese pizza PLEASE 
+HYP:  i would like a small cheese pizza BYE    
+Eval:                                   S      
+
+id: (csun_02)
+Scores: (#C #S #D #I) 5 0 5 0
+REF:  COULD I HAVE a large pizza with BEEF AND peppers 
+HYP:  ***** * **** a large pizza with **** *** peppers 
+Eval: D     D D                       D    D           
+
+id: (csun_03)
+Scores: (#C #S #D #I) 0 0 7 0
+REF:  I WOULD LIKE TWO MEDIUM PEPPERONI PIZZAS 
+HYP:  * ***** **** *** ****** ********* ****** 
+Eval: D D     D    D   D      D         D      
+
+id: (csun_04)
+Scores: (#C #S #D #I) 4 1 4 0
+REF:  COULD I HAVE a large DELUXE pizza WITHOUT peppers 
+HYP:  ***** * **** a large ****** pizza WITH    peppers 
+Eval: D     D D            D            S               
+
+id: (csun_05)
+Scores: (#C #S #D #I) 6 0 2 1
+REF:  i want a medium PHILLY cheese STEAK pizza ****** 
+HYP:  i want a medium ****** cheese ***** pizza ONIONS 
+Eval:                 D             D           I      
+
+id: (csun_06)
+Scores: (#C #S #D #I) 1 2 3 0
+REF:  THREE BROOKLYN STYLE cheese PIZZAS PLEASE 
+HYP:  ***** ******** A     cheese ****** PIZZA  
+Eval: D     D        S            D      S      
+
+id: (csun_07)
+Scores: (#C #S #D #I) 4 2 5 0
+REF:  one small PACIFIC VEGGIE pizza with A SIDE OF RANCH PLEASE 
+HYP:  one small ******* CHEESE pizza with * **** ** ***** ONIONS 
+Eval:           D       S                 D D    D  D     S      
+
+id: (csun_08)
+Scores: (#C #S #D #I) 5 1 3 0
+REF:  i would like one SPINACH AND FETA  pizza PLEASE 
+HYP:  i would like one ******* *** LARGE pizza ****** 
+Eval:                  D       D   S           D      
+
+id: (csun_09)
+Scores: (#C #S #D #I) 8 0 4 0
+REF:  can i get one small cheese pizza AND ONE SMALL pepperoni PIZZA 
+HYP:  can i get one small cheese pizza *** *** ***** pepperoni ***** 
+Eval:                                  D   D   D               D     
+
+id: (csun_10)
+Scores: (#C #S #D #I) 2 1 3 0
+REF:  one CHICKEN BACON RANCH  pizza PLEASE 
+HYP:  one ******* ***** CHEESE pizza ****** 
+Eval:     D       D     S            D      
+
+

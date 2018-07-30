@@ -1,0 +1,23 @@
+<START> = [<greeting>] [<request>] <pizza> [<goodbye>];
+
+<greeting> = (hi | hello) [there];
+
+<request> = ((I want | (I'd | I would) like) [to order]) | (can I | could I (have | get));
+
+<pizza> = <single_pizza> [<topping>] ;
+
+<single_pizza> = <single> [<size>] [<type>] pizza ;
+
+<single> = (a | one) | two | three | four | five;
+
+<type> = cheese | white roman | Philly cheese steak | deluxe | Brooklyn style | Pacific veggie| Hawaiian | Buffalo chicken | Memphis BBQ chicken | chicken bacon ranch | spinach and feta;
+
+
+<size> = small
+         | medium
+         | large ;
+
+<topping> =  [with | without | and] (pepperoni | beef | onions | peppers | spinach | feta |chicken | bacon | ranch);
+
+<goodbye> = [ok] [please] [(thanks| thank you )] 
+	  ( bye | goodbye);

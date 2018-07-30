@@ -1,0 +1,71 @@
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   pizza4.hyp
+
+Speakers: 
+    0:  csun
+
+Speaker sentences   0:  csun   #utts: 10
+id: (csun_01)
+Scores: (#C #S #D #I) 8 0 0 1
+REF:  i would like a small cheese pizza please *** 
+HYP:  i would like a small cheese pizza please BYE 
+Eval:                                          I   
+
+id: (csun_02)
+Scores: (#C #S #D #I) 8 0 2 0
+REF:  could i have a large pizza with beef AND PEPPERS 
+HYP:  could i have a large pizza with beef *** ******* 
+Eval:                                      D   D       
+
+id: (csun_03)
+Scores: (#C #S #D #I) 0 0 7 0
+REF:  I WOULD LIKE TWO MEDIUM PEPPERONI PIZZAS 
+HYP:  * ***** **** *** ****** ********* ****** 
+Eval: D D     D    D   D      D         D      
+
+id: (csun_04)
+Scores: (#C #S #D #I) 8 1 0 0
+REF:  could i have a large deluxe pizza WITHOUT peppers 
+HYP:  could i have a large deluxe pizza WITH    peppers 
+Eval:                                   S               
+
+id: (csun_05)
+Scores: (#C #S #D #I) 8 0 0 2
+REF:  i want a medium philly cheese steak pizza ****** *** 
+HYP:  i want a medium philly cheese steak pizza PLEASE BYE 
+Eval:                                           I      I   
+
+id: (csun_06)
+Scores: (#C #S #D #I) 2 2 2 0
+REF:  THREE brooklyn style CHEESE PIZZAS PLEASE 
+HYP:  A     brooklyn style ****** ****** PIZZA  
+Eval: S                    D      D      S      
+
+id: (csun_07)
+Scores: (#C #S #D #I) 8 0 3 1
+REF:  one small pacific veggie pizza with A SIDE OF ranch please *** 
+HYP:  one small pacific veggie pizza with * **** ** ranch please BYE 
+Eval:                                     D D    D               I   
+
+id: (csun_08)
+Scores: (#C #S #D #I) 9 0 0 1
+REF:  i would like one spinach and feta pizza please *** 
+HYP:  i would like one spinach and feta pizza please BYE 
+Eval:                                                I   
+
+id: (csun_09)
+Scores: (#C #S #D #I) 7 0 5 0
+REF:  can i GET one small cheese pizza AND ONE SMALL pepperoni PIZZA 
+HYP:  can i *** one small cheese pizza *** *** ***** pepperoni ***** 
+Eval:       D                          D   D   D               D     
+
+id: (csun_10)
+Scores: (#C #S #D #I) 6 0 0 1
+REF:  one chicken bacon ranch pizza please *** 
+HYP:  one chicken bacon ranch pizza please BYE 
+Eval:                                      I   
+
+
