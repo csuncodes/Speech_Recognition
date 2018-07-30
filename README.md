@@ -13,7 +13,11 @@ Step 1 is done by csun_extraction.py
 Step 2 is done by csun_create_hyp.py 
 
 There are many file types in this project due to the various software tools used. All are able to be read in a text editor.
+
 .pra, .dtl, and .sys files are all the results from SClite and show various statistics of the transcriptions.
+
 .hyp files are necessary as input for SClite.
+
 .emma files are necessary as input for AT&T Mashup.
+
 .wbnf file is needed as the grammar of the AT&T Mashup and is uploaded manually.
